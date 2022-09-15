@@ -1,5 +1,5 @@
 package Questao1;
-// Essa classe é para modela objeto cliente
+// Essa classe é para modela objeto pessoa
 public class Pessoa {
 	private String nome;
 	private String datadenascimento;
